@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+**/__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+#vector stores
+*.pkl

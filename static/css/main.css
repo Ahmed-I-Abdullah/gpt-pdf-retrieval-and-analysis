@@ -1,0 +1,56 @@
+.chat-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    font-family: Arial, sans-serif;
+  }
+  
+  .user-message {
+    color: #1d3557;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  
+  .pdfchat-message {
+    color: #e63946;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  
+  .message-text {
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 0.3rem;
+  }
+  
+  .message-spacing {
+    height: 30px;
+  }
+  
+  .input-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1rem;
+    background-color: #ffffff;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-send {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .submit-button {
+    background-color: #457b9d;
+    color: #ffffff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 8px;
+  }
+  
